@@ -1,27 +1,19 @@
-Sample CSV Generator
+📘 My Machine Learning Learning Journey
 
-This Python script generates a CSV file named sample_data.csv with 10 rows of randomly generated values.
-The file contains the following columns:
-ID
-Age
-Salary
-Score
-Rating
+This repository is where I’m collecting everything I learn in Machine Learning during my 6th semester. I’ll keep adding my daily progress here — whether it’s a small concept, a coding exercise, or something new I tried out.
 
-Features :
-1. Creates a CSV file with random values.
-2. Automatically writes headers.
-3. Generates realistic random data for testing and analysis.
+I’m using this repo mainly to track my growth, stay consistent, and understand ML in a way that makes sense to me. Nothing too fancy — just my honest learning process.
 
-Requirements :
-Python 3.x
+🌱 What you’ll find here
 
-How to Run :
-python generate_random_csv.py
+My daily ML practice and notes
 
-Output :
-A file named sample_data.csv will be created in the same directory.
+Python notebooks and experiments
 
-Example Output Format :
-ID	Age	Salary	Score	Rating
-45	30	60000	70	0.81
+Simple explanations written in my own words
+
+Small projects as I improve
+
+🎯 Why I made this
+
+To keep myself motivated, organised, and to see how far I’ve come by the end of the semester.
