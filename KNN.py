@@ -10,11 +10,9 @@ K-Nearest Neighbors (KNN) Classification
 import math
 from collections import Counter
 
-
 def euclidean_distance(p1, p2):
     """Calculate Euclidean distance between two points"""
     return math.sqrt(sum((p1[i] - p2[i]) ** 2 for i in range(len(p1))))
-
 
 def knn_classification(data, labels, test_point, k):
     """Predict class using KNN Classification"""
@@ -67,3 +65,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
